@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dattu_Location</string>
+    <string name="location_finder">Location Finder</string>
+    <string name="get_location">Get Location</string>
+</resources>
